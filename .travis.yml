@@ -3,7 +3,7 @@ node_js: '5.2'
 deploy:
   provider: heroku
   api_key:
-    secure: E5sWkitF+XNnEXn2+RjnhGcrrlSLNeaE48vv24OA3BVJNn8Al7/bC4O8V5WCCGASthXruK1f+CVLJrvXn5gGwmOwSKAJbgKwwRSDOic1UBgyWelEo2IfNPz/ve1EwWMPszhcYMFtZFwQaIQLE2b43zI0WDs9AE8nQjTe2CnX/B/otw7Dz9zppwx7bSQd04wEvag/oOz9MF3hF2xU2AbErNCPinUKogxr4X9PGKFBFC/yU224M+kZT6e+75wSWHlkeQ2R82tAnqDq+uQ/I2N2FpzsHpKYZSWoynbsJ0+/A/igjfZ4X1SyKm6pZQHvSIypGJrzyNNNRTDTP0ZMhrj9/wC0xE0sqSfk79CciFtWN9ck9bdPbRATsPw2KUpI7wwfG/o+1OwLtexJK3mH/+K9Kfo7D3oN5JlYZZXGpJWapf+I2Tpr/bsheSFriwHiahTZ63o5w1+pJVabbAc+2fisYl3LfFHPcF+MCijp3ejcM+I/mDPg068ey7dBv5E/w6+y7ADFLBiWjb/qRY+ZG2d/nCvLWkVZ3Y0Mz2avzwTiLNbrEVRHSe/DnsV7fzknWdizfpzaVtInoi4cs/fQE3+dpJvMcdE+a/l1VvhpF7EpniC/FWg/W2lJ/Bw9m/MpO9W8bkfd3oPqY3LJu4MEevetLQ/dHrPUBiyUDbPONHD9g+8=
+    secure: "E5sWkitF+XNnEXn2+RjnhGcrrlSLNeaE48vv24OA3BVJNn8Al7/bC4O8V5WCCGASthXruK1f+CVLJrvXn5gGwmOwSKAJbgKwwRSDOic1UBgyWelEo2IfNPz/ve1EwWMPszhcYMFtZFwQaIQLE2b43zI0WDs9AE8nQjTe2CnX/B/otw7Dz9zppwx7bSQd04wEvag/oOz9MF3hF2xU2AbErNCPinUKogxr4X9PGKFBFC/yU224M+kZT6e+75wSWHlkeQ2R82tAnqDq+uQ/I2N2FpzsHpKYZSWoynbsJ0+/A/igjfZ4X1SyKm6pZQHvSIypGJrzyNNNRTDTP0ZMhrj9/wC0xE0sqSfk79CciFtWN9ck9bdPbRATsPw2KUpI7wwfG/o+1OwLtexJK3mH/+K9Kfo7D3oN5JlYZZXGpJWapf+I2Tpr/bsheSFriwHiahTZ63o5w1+pJVabbAc+2fisYl3LfFHPcF+MCijp3ejcM+I/mDPg068ey7dBv5E/w6+y7ADFLBiWjb/qRY+ZG2d/nCvLWkVZ3Y0Mz2avzwTiLNbrEVRHSe/DnsV7fzknWdizfpzaVtInoi4cs/fQE3+dpJvMcdE+a/l1VvhpF7EpniC/FWg/W2lJ/Bw9m/MpO9W8bkfd3oPqY3LJu4MEevetLQ/dHrPUBiyUDbPONHD9g+8="
   app: netrunnerql
   on:
     repo: MasterOfPoppets/netrunnerql
