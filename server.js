@@ -14,4 +14,8 @@ app.use(mount('/graphql', graphqlHttp({
 	graphiql: true
 })));
 
+app.use(mount('/', function * () {
+	this.body = '<a href="/graphql">Netrunner GraphiQL introspection</a>';
+}));
+
 app.listen(PORT);
