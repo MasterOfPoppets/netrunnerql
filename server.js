@@ -5,7 +5,7 @@ import graphqlHttp from 'koa-graphql';
 import schema from './src/schema';
 
 const app = koa();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(logger());
 
