@@ -1,0 +1,1 @@
+# Netrunner GraphQL ![Build Status](https://travis-ci.org/MasterOfPoppets/netrunnerql.svg?branch=master)
