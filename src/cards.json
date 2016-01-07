@@ -1,0 +1,16 @@
+[
+  {
+    "title": "MaxX",
+    "subtitle": "Maximum Punk Rock",
+    "type": "Identity",
+    "subtypes": ["G-Mod"]
+  },
+  {
+    "title": "Apocalypse",
+    "type": "Event"
+  },
+  {
+    "title": "Day Job",
+    "type": "Event"
+  }
+]
