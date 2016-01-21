@@ -1,0 +1,18 @@
+[
+  {
+    "title": "MaxX Pain",
+    "identity": "MaxX",
+    "cards": [
+      {"card": "Apocalypse", "count": 1},
+      {"card": "Day Job", "count": 3}
+    ]
+  },
+  {
+    "title": "Fury Road",
+    "identity": "MaxX",
+    "cards": [
+      {"card": "Apocalypse", "count": 1},
+      {"card": "Day Job", "count": 3}
+    ]
+  }
+]

@@ -2,15 +2,60 @@
   {
     "title": "MaxX",
     "subtitle": "Maximum Punk Rock",
-    "type": "Identity",
+    "type": 0,
     "subtypes": ["G-Mod"]
   },
   {
+    "title": "Account Siphon",
+    "type": 3,
+    "subtypes": ["Run", "Sabotage"]
+  },
+  {
+    "title": "Amped Up",
+    "type": 3
+  },
+  {
     "title": "Apocalypse",
-    "type": "Event"
+    "type": 3
   },
   {
     "title": "Day Job",
-    "type": "Event"
+    "type": 3
+  },
+  {
+    "title": "Deja Vu",
+    "type": 3
+  },
+  {
+    "title": "I've Had Worse",
+    "type": 3
+  },
+  {
+    "title": "Knifed",
+    "type": 3,
+    "subtypes": ["Run", "Sabotage"]
+  },
+  {
+    "title": "Levy AR Lab Access",
+    "type": 3
+  },
+  {
+    "title": "Queen's Gambit",
+    "type": 3,
+    "subtypes": ["Double"]
+  },
+  {
+    "title": "Retrieval Run",
+    "type": 3,
+    "subtypes": ["Run"]
+  },
+  {
+    "title": "Sure Gamble",
+    "type": 3
+  },
+  {
+    "title": "Wanton Destruction",
+    "type": 3,
+    "subtypes": ["Run", "Sabotage"]
   }
 ]
